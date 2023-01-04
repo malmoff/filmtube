@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filmtube/static/css/main.4ec427bd.css",
+    "main.js": "/filmtube/static/js/main.aa309182.js",
+    "static/js/787.508cbc40.chunk.js": "/filmtube/static/js/787.508cbc40.chunk.js",
+    "index.html": "/filmtube/index.html",
+    "main.4ec427bd.css.map": "/filmtube/static/css/main.4ec427bd.css.map",
+    "main.aa309182.js.map": "/filmtube/static/js/main.aa309182.js.map",
+    "787.508cbc40.chunk.js.map": "/filmtube/static/js/787.508cbc40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec427bd.css",
+    "static/js/main.aa309182.js"
+  ]
+}
